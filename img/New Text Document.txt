@@ -1,0 +1,27 @@
+STRICT
+STRICT is a responsive theme with a a clean and minimal look.
+
+Simple & pure design.
+Designers everywhere gush with admiration upon seeing a web design and exclaim "its beautiful, it's so clean!". There are a countless number of webdesign round-ups dedicated to 'clean' design and it is a term thrown around quite a bit in the web design community. It can be easy to spot a good example of clean design.
+
+Optimized for all devices
+STRICT has been designed to be fully 
+responsive on all devices
+
+Clean & Minimal Design
+This multipurpose theme is especially created 
+to be used for different projects.
+
+Font Awesome Icon
+This multipurpose theme is especially created 
+to be used for different projects.
+
+Showcase your work like a pro.
+ Contact me if you like my work
+
+Stay with us
+We ensure quailty & support
+Copyritht 2014, STRICTs
+
+main color: #15a4fa
+contact overlay: #2d3950
